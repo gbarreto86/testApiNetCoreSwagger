@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="api-new" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\DEVOPS_FUXION\\Backtienda2\\backTienda3\\\.vs\\FuxionRest\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

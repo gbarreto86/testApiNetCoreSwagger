@@ -1,0 +1,12 @@
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\bin\Release\netcoreapp2.2\System.Persistence.Core.deps.json
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\bin\Release\netcoreapp2.2\System.Persistence.Core.dll
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\bin\Release\netcoreapp2.2\System.Persistence.Core.pdb
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\bin\Release\netcoreapp2.2\System.Infrastructure.Tools.dll
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\bin\Release\netcoreapp2.2\System.Infrastructure.Tools.pdb
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\obj\Release\netcoreapp2.2\System.Persistence.Core.csprojAssemblyReference.cache
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\obj\Release\netcoreapp2.2\System.Persistence.Core.csproj.CoreCompileInputs.cache
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\obj\Release\netcoreapp2.2\System.Persistence.Core.AssemblyInfoInputs.cache
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\obj\Release\netcoreapp2.2\System.Persistence.Core.AssemblyInfo.cs
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\obj\Release\netcoreapp2.2\System.Persistence.Core.csproj.CopyComplete
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\obj\Release\netcoreapp2.2\System.Persistence.Core.dll
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Persistence.Core\obj\Release\netcoreapp2.2\System.Persistence.Core.pdb

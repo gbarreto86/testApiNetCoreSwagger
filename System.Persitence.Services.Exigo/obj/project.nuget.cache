@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "qIutsZBEG1wNSREVXV1ZhclqJTGhGn3hGUOfX4mTmGKHvMjGiYW2TArcZ0Sbd/C9ELVQT1n7mJiobakARTq3Cg==",
+  "success": true,
+  "projectFilePath": "D:\\Trabajo-Remoto\\fuxion\\GIT\\backTienda\\.vs\\System.Persitence.Services.Exigo\\System.Persitence.Service.Exigo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\windev\\.nuget\\packages\\microsoft.extensions.configuration\\2.2.0\\microsoft.extensions.configuration.2.2.0.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.2.0\\microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\system.net.http.winhttphandler\\4.4.0\\system.net.http.winhttphandler.4.4.0.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\system.private.servicemodel\\4.4.4\\system.private.servicemodel.4.4.4.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\system.reflection.dispatchproxy\\4.4.0\\system.reflection.dispatchproxy.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\system.servicemodel.duplex\\4.4.4\\system.servicemodel.duplex.4.4.4.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\system.servicemodel.http\\4.4.4\\system.servicemodel.http.4.4.4.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\system.servicemodel.nettcp\\4.4.4\\system.servicemodel.nettcp.4.4.4.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\system.servicemodel.primitives\\4.4.4\\system.servicemodel.primitives.4.4.4.nupkg.sha512",
+    "C:\\Users\\windev\\.nuget\\packages\\system.servicemodel.security\\4.4.4\\system.servicemodel.security.4.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

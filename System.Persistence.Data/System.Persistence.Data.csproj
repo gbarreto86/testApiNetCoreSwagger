@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\System.Domain.Entities\System.Domain.Entities.csproj" />
+    <ProjectReference Include="..\System.Domain.Interfaces\System.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\System.Persistence.Core\System.Persistence.Core.csproj" />
+  </ItemGroup>
+
+</Project>

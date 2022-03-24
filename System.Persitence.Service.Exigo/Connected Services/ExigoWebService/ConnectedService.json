@@ -1,0 +1,38 @@
+﻿{
+  "ProviderId": "Microsoft.VisualStudio.ConnectedService.Wcf",
+  "Version": "15.0.40203.910",
+  "GettingStartedDocument": {
+    "Uri": "https://go.microsoft.com/fwlink/?linkid=858517"
+  },
+  "ExtendedData": {
+    "inputs": [
+      "https://fuxion-api.exigo.com/3.0/"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ExigoWebService"
+    ],
+    "references": [
+      "D:\\DEVOPS_FUXION\\Backtienda2\\backTienda\\.vs\\System.Persitence.Service.Exigo\\bin\\Release\\netcoreapp3.1\\System.Domain.Entities.Exigo.dll",
+      "D:\\DEVOPS_FUXION\\Backtienda2\\backTienda\\.vs\\System.Persitence.Service.Exigo\\bin\\Release\\netcoreapp3.1\\System.Domain.Interfaces.Exigo.dll",
+      "D:\\DEVOPS_FUXION\\Backtienda2\\backTienda\\.vs\\System.Persitence.Service.Exigo\\bin\\Release\\netcoreapp3.1\\System.Infrastructure.Tools.dll",
+      "Microsoft.Extensions.Configuration, {Microsoft.Extensions.Configuration, 2.2.0}",
+      "Microsoft.Extensions.Configuration.Abstractions, {Microsoft.Extensions.Configuration.Abstractions, 2.2.0}",
+      "Microsoft.Extensions.DependencyInjection.Abstractions, {Microsoft.Extensions.DependencyInjection.Abstractions, 2.2.0}",
+      "Microsoft.Extensions.Options, {Microsoft.Extensions.Options, 2.2.0}",
+      "Microsoft.Extensions.Primitives, {Microsoft.Extensions.Primitives, 2.2.0}",
+      "System.Runtime.CompilerServices.Unsafe, {System.Runtime.CompilerServices.Unsafe, 4.5.1}",
+      "System.ServiceModel, {System.ServiceModel.Primitives, 4.4.4}",
+      "System.ServiceModel.Duplex, {System.ServiceModel.Duplex, 4.4.4}",
+      "System.ServiceModel.Http, {System.ServiceModel.Http, 4.4.4}",
+      "System.ServiceModel.NetTcp, {System.ServiceModel.NetTcp, 4.4.4}",
+      "System.ServiceModel.Primitives, {System.ServiceModel.Primitives, 4.4.4}",
+      "System.ServiceModel.Security, {System.ServiceModel.Security, 4.4.4}"
+    ],
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "All"
+  }
+}

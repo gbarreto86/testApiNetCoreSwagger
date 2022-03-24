@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "System.Domain.Entities.Exigo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/System.Domain.Entities.Exigo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/System.Domain.Entities.Exigo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Domain.Entities.Exigo/1.0.0": {
+      "type": "project",
+      "path": "../System.Domain.Entities.Exigo/System.Domain.Entities.Exigo.csproj",
+      "msbuildProject": "../System.Domain.Entities.Exigo/System.Domain.Entities.Exigo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "System.Domain.Entities.Exigo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gbarr\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gbarr\\Downloads\\ApiNetCoreSwagger\\.vs\\System.Domain.Interfaces.Exigo\\System.Domain.Interfaces.Exigo.csproj",
+      "projectName": "System.Domain.Interfaces.Exigo",
+      "projectPath": "C:\\Users\\gbarr\\Downloads\\ApiNetCoreSwagger\\.vs\\System.Domain.Interfaces.Exigo\\System.Domain.Interfaces.Exigo.csproj",
+      "packagesPath": "C:\\Users\\gbarr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gbarr\\Downloads\\ApiNetCoreSwagger\\.vs\\System.Domain.Interfaces.Exigo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gbarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\gbarr\\Downloads\\ApiNetCoreSwagger\\.vs\\System.Domain.Entities.Exigo\\System.Domain.Entities.Exigo.csproj": {
+              "projectPath": "C:\\Users\\gbarr\\Downloads\\ApiNetCoreSwagger\\.vs\\System.Domain.Entities.Exigo\\System.Domain.Entities.Exigo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

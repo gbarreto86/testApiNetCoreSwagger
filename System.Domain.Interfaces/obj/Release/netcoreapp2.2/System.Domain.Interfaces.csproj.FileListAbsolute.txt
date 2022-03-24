@@ -1,0 +1,12 @@
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\bin\Release\netcoreapp2.2\System.Domain.Interfaces.deps.json
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\bin\Release\netcoreapp2.2\System.Domain.Interfaces.dll
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\bin\Release\netcoreapp2.2\System.Domain.Interfaces.pdb
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\bin\Release\netcoreapp2.2\System.Domain.Entities.dll
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\bin\Release\netcoreapp2.2\System.Domain.Entities.pdb
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\obj\Release\netcoreapp2.2\System.Domain.Interfaces.csprojAssemblyReference.cache
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\obj\Release\netcoreapp2.2\System.Domain.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\obj\Release\netcoreapp2.2\System.Domain.Interfaces.AssemblyInfoInputs.cache
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\obj\Release\netcoreapp2.2\System.Domain.Interfaces.AssemblyInfo.cs
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\obj\Release\netcoreapp2.2\System.Domain.Interfaces.csproj.CopyComplete
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\obj\Release\netcoreapp2.2\System.Domain.Interfaces.dll
+C:\Users\jperezm\Desktop\Arquitectura\slnBackFuxion\System.Domain.Interfaces\obj\Release\netcoreapp2.2\System.Domain.Interfaces.pdb

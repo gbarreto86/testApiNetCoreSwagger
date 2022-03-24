@@ -1,0 +1,505 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\FuxionRest\\ApiBack.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\FuxionRest\\ApiBack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\FuxionRest\\ApiBack.csproj",
+        "projectName": "ApiBack",
+        "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\FuxionRest\\ApiBack.csproj",
+        "packagesPath": "C:\\Users\\gbarr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\FuxionRest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gbarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Application.Main\\System.Application.Main.csproj": {
+                "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Application.Main\\System.Application.Main.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "SyrianBallaS.AutoMapper.Extensions.Microsoft.DependencyInjection.Signed": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Application.Main\\System.Application.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Application.Main\\System.Application.Main.csproj",
+        "projectName": "System.Application.Main",
+        "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Application.Main\\System.Application.Main.csproj",
+        "packagesPath": "C:\\Users\\gbarr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Application.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gbarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Entities\\System.Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Entities\\System.Domain.Entities.csproj"
+              },
+              "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Interfaces\\System.Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Interfaces\\System.Domain.Interfaces.csproj"
+              },
+              "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Data\\System.Persistence.Data.csproj": {
+                "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Data\\System.Persistence.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Entities\\System.Domain.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Entities\\System.Domain.Entities.csproj",
+        "projectName": "System.Domain.Entities",
+        "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Entities\\System.Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\gbarr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gbarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Interfaces\\System.Domain.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Interfaces\\System.Domain.Interfaces.csproj",
+        "projectName": "System.Domain.Interfaces",
+        "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Interfaces\\System.Domain.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\gbarr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gbarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Entities\\System.Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Entities\\System.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Infrastructure.Tools\\System.Infrastructure.Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Infrastructure.Tools\\System.Infrastructure.Tools.csproj",
+        "projectName": "System.Infrastructure.Tools",
+        "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Infrastructure.Tools\\System.Infrastructure.Tools.csproj",
+        "packagesPath": "C:\\Users\\gbarr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Infrastructure.Tools\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gbarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Core\\System.Persistence.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Core\\System.Persistence.Core.csproj",
+        "projectName": "System.Persistence.Core",
+        "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Core\\System.Persistence.Core.csproj",
+        "packagesPath": "C:\\Users\\gbarr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gbarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Infrastructure.Tools\\System.Infrastructure.Tools.csproj": {
+                "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Infrastructure.Tools\\System.Infrastructure.Tools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Data\\System.Persistence.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Data\\System.Persistence.Data.csproj",
+        "projectName": "System.Persistence.Data",
+        "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Data\\System.Persistence.Data.csproj",
+        "packagesPath": "C:\\Users\\gbarr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gbarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Entities\\System.Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Entities\\System.Domain.Entities.csproj"
+              },
+              "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Interfaces\\System.Domain.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Domain.Interfaces\\System.Domain.Interfaces.csproj"
+              },
+              "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Core\\System.Persistence.Core.csproj": {
+                "projectPath": "C:\\Users\\gbarr\\Documents\\Fuxion\\git\\testApiNetCoreSwagger\\System.Persistence.Core\\System.Persistence.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

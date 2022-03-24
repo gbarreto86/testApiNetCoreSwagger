@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "System.Domain.Interfaces/1.0.0": {
+        "dependencies": {
+          "System.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "System.Domain.Interfaces.dll": {}
+        }
+      },
+      "System.Domain.Entities/1.0.0": {
+        "runtime": {
+          "System.Domain.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Domain.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

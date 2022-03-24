@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.1.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Serilog" Version="2.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\System.Domain.Entities\System.Domain.Entities.csproj" />
+    <ProjectReference Include="..\System.Domain.Interfaces\System.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\System.Persistence.Data\System.Persistence.Data.csproj" />
+  </ItemGroup>
+
+</Project>
